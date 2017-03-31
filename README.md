@@ -17,7 +17,7 @@ This is a simple setup to start off any front end project. <br>
 4. Run "grunt"<br><br>
 5. Magincally your browser should come up at  http://localhost:3000/<br><br>
 6. In Browser hit:  http://localhost:3000/index.html.<br><br>
-7. Now open you project in your favorite IDE
+7. Now open you project in your favorite IDE<br><br>
 8. Make a small change, save and see them happen on the browser.
 
 
