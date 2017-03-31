@@ -1,7 +1,7 @@
-# boilerPlateFEE
+# BoilerPlate Template to Start off FEE projects
 This is a simple setup to start off any front end project. <br>
 
-Area this Boiler Takes care of for you are the following:
+Areas setup in this Project:<br>
   1. It creates a dummy directory structure for you for your CSS and JS
   2. It creates a grunt.js file to run the important task needed to run a front end project.<br>
       a. Sets your Sass, converts to CSS and then mimifies it.<br>
