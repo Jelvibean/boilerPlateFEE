@@ -12,7 +12,7 @@ Areas setup in this Project:<br>
       
 <strong>Steps to use this project:</strong><br>
 1. Create a directory in your computer of where you want to house this project.<br><br>
-2. Open Terminal windows -> cmd -> traverse to directory you created.<br>br>
+2. Open Terminal windows -> cmd -> traverse to directory you created.<br><br>
 3. Run "NPM Install"<br><br>
 4. Run "grunt"<br><br>
 5. Magincally your browser should come up at  http://localhost:3000/<br><br>
