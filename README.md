@@ -1,7 +1,7 @@
 # BoilerPlate Template to Start off FEE projects
 This is a simple setup to start off any front end project. <br>
 
-Areas setup in this Project:<br>
+<strong style="color: blue;">Areas setup in this Project:</strong><br>
   1. It creates a dummy directory structure for your CSS and JS
   2. It creates a grunt.js file to run the important task needed to run a front end project.<br>
       a. Sets your Sass, converts to CSS and then mimifies it.<br>
@@ -10,7 +10,7 @@ Areas setup in this Project:<br>
       d. Package.json sets all calls to all the tasks needed to run this project.<br>
       
       
-<strong>Steps to use this project:</strong><br>
+<strong style="color: blue;">Steps to use this project:</strong><br>
 1. Create a directory in your computer of where you want to house this project.<br><br>
 2. Open Terminal windows -> cmd -> traverse to directory you created.<br><br>
 3. Run "NPM Install"<br><br>
