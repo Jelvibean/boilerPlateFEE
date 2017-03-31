@@ -20,7 +20,7 @@ Areas setup in this Project:<br>
 
 
 If you get errors requesting you to install Ruby you may need to go: http://sass-lang.com/install.<br>
-Following instruction on how to install ruby and sass.<br>
-Reason is you need Ruby and Sass install at the global level to have this run.<br>
+Follow instruction on how to install ruby and sass.<br>
+Reason for this is you need Ruby and Sass install at the global level to have this run.<br>
       <br>
  Happy Coding!!
