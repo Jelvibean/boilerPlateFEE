@@ -12,14 +12,18 @@ This is a simple setup to start off any front end project. <br>
       
 <strong style="color: blue;">Steps to use this project:</strong><br>
 1. Create a directory in your computer of where you want to house this project.<br><br>
-2. Open Terminal windows -> cmd -> traverse to directory you created.<br><br>
-3. Run "NPM Install"<br><br>
-4. Run "grunt"<br><br>
-        &nbsp;If you get <strong>errors</strong> requesting you to install Ruby you may need to go: http://sass-lang.com/install.<br>
-        &nbsp;Follow instruction on how to install ruby and sass.<br>
-        &nbsp; Reason for this is you need Ruby and Sass install at the global level to have this run.<br>
+2. In GitHub under the repository name, click Clone or download.
+3. In the Clone with HTTPs section, click  to copy the clone URL for the repository. 
+4. Open Terminal windows -> cmd -> traverse to directory you created.<br><br>
+5. Type git clone, and then paste the URL you copied in Step 2.
+   ------ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+6. Once Clone is succesful -> Run "NPM Install"<br><br>
+7. Run command line  npm start<br><br>
+        ----&nbsp;If you get <strong>errors</strong> requesting you to install Ruby you may need to go: http://sass-lang.com/install.<br>
+        ----&nbsp;Follow instruction on how to install ruby and sass.<br>
+        ----&nbsp; Reason for this is you need Ruby and Sass install at the global level to have this run.<br>
 5. Magincally your browser should come up at  http://localhost:3000/<br><br>
-6. In Browser hit:  http://localhost:3000/index.html.<br><br>
 7. Now open your project in your favorite IDE<br><br>
 8. Make a small change, save and see them happen on the browser.
 
