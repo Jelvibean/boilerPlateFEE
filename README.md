@@ -20,12 +20,19 @@ This is a simple setup to start off any front end project. <br>
 
 6. Once Clone is succesful -> Run "NPM Install"<br><br>
 7. Run command line  npm start<br><br>
-        ----&nbsp;If you get <strong>errors</strong> requesting you to install Ruby you may need to go: http://sass-lang.com/install.<br>
+8. &nbsp;If you get <strong>errors</strong> requesting you to install Ruby you may need to go: http://sass-lang.com/install.<br>
         ----&nbsp;Follow instruction on how to install ruby and sass.<br>
         ----&nbsp; Reason for this is you need Ruby and Sass install at the global level to have this run.<br>
-5. Magincally your browser should come up at  http://localhost:3000/<br><br>
-7. Now open your project in your favorite IDE<br><br>
-8. Make a small change, save and see them happen on the browser.
+9. If you now have ruby installed and you get the following error: 
+Warning: You need to have Ruby and Sass installed and in your PATH for
+this task to work. More info:
+https://github.com/gruntjs/grunt-contrib-sass Use --force 
+to continue.   RUN the follow command:  gem install sass
+  
+
+10. Magincally your browser should come up at  http://localhost:3000/<br><br>
+11. Now open your project in your favorite IDE<br><br>
+12. Make a small change, save and see them happen on the browser.
 
 
 **********************************************************************
