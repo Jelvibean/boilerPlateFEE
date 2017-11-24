@@ -35,12 +35,13 @@ to continue.   RUN the follow command:  gem install sass
 
 
 **********************************************************************
-
 Reminders of Commit Commands to any project:
-1. Git status - shows you all files that were changed.
-1. Git add .  - adds the files to local repo
-2. git commit -m "my changes"  - commits your changes to local repo
-3. git push origin master   - pushes them out to Github the origin.
+1. If this is a new project dont forget to "git init" first
+2. Git status - shows you all files that were changed.
+3. Git add .  - adds the files to local repo
+4. git commit -m "my changes"  - commits your changes to local repo
+5. git push origin master   - pushes them out to Github the origin.
+
 
      <br>
  Happy Coding!!
